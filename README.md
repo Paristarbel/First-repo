@@ -1,2 +1,3 @@
 # First-repo
-My first ever mini project
+hey there,
+This is my first ever mini project
